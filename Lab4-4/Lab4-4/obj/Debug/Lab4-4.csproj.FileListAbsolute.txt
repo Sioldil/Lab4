@@ -1,0 +1,15 @@
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\bin\Debug\Lab4-4.exe.config
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\bin\Debug\Lab4-4.exe
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\bin\Debug\Lab4-4.pdb
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\bin\Debug\EntityFramework.dll
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\bin\Debug\EntityFramework.xml
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\obj\Debug\Lab4-4.csproj.AssemblyReference.cache
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\obj\Debug\Lab4_4.Form1.resources
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\obj\Debug\Lab4_4.Properties.Resources.resources
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\obj\Debug\Lab4-4.csproj.GenerateResource.cache
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\obj\Debug\Lab4-4.csproj.CoreCompileInputs.cache
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\obj\Debug\Lab4-4.csproj.CopyComplete
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\obj\Debug\Lab4-4.exe
+E:\C#\Lab04-master\Lab04\Lab4-4\Lab4-4\obj\Debug\Lab4-4.pdb
